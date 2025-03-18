@@ -1,0 +1,26 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is naste react project by Nikhil Patra",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikhilPatra0407/namaste-react.git"
+  },
+  "author": "Nikhil Patra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikhilPatra0407/namaste-react/issues"
+  },
+  "homepage": "https://github.com/NikhilPatra0407/namaste-react#readme",
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.0"
+  }
+}
